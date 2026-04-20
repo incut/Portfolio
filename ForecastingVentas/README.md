@@ -91,9 +91,3 @@ ForecastingVentas/
    streamlit run app/app.py
    ```
 
-## Próximos Pasos
-
-- Incorporar métricas formales de validación como `MAE`, `RMSE` y `MAPE`.
-- Documentar supuestos de negocio y criterios de modelado con mayor detalle.
-- Agregar comparación entre modelos y una etapa de backtesting.
-- Publicar una versión desplegada para acceso directo desde GitHub o CV.
