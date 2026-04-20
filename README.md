@@ -36,6 +36,8 @@ Esta carpeta está preparada para funcionar como raíz del portfolio al publicar
 | --- | --- | --- | --- |
 | [ForecastingVentas](ForecastingVentas/README.md) | Predicción diaria de ventas y simulación de escenarios comerciales con descuentos y competencia | `Python`, `scikit-learn`, `Streamlit` | Disponible |
 
+Demo online: [portfolio-forecasting-ventas.streamlit.app](https://portfolio-forecasting-ventas.streamlit.app)
+
 ## Estructura del Portfolio
 
 ```text
