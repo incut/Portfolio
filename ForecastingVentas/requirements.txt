@@ -3,5 +3,6 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-jupyter
+#jupyter no es necesario para cloud
 streamlit
+joblib
