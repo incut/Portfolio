@@ -91,3 +91,7 @@ ForecastingVentas/
    streamlit run app/app.py
    ```
 
+## Despliegue en Streamlit Cloud
+
+Si publicás el repositorio en Streamlit Cloud, usá [streamlit_app.py](../streamlit_app.py) como archivo principal. Ese wrapper carga la app ubicada en [app/app.py](app/app.py) y permite reutilizar la misma lógica tanto en local como en la nube.
+

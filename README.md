@@ -39,6 +39,10 @@ Esta carpeta está preparada para funcionar como raíz del portfolio al publicar
 
 Demo online: [portfolio-forecasting-ventas.streamlit.app](https://portfolio-forecasting-ventas.streamlit.app)
 
+### Despliegue en Streamlit Cloud
+
+El punto de entrada para Cloud es [streamlit_app.py](streamlit_app.py). Al crear o actualizar la app en Streamlit Cloud, seleccioná ese archivo como main file path.
+
 ## Estructura del Portfolio
 
 ```text
