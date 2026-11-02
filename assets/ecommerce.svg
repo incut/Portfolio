@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-labelledby="title desc">
+  <title id="title">Peso de los compradores recurrentes</title>
+  <desc id="desc">Los compradores recurrentes son el 21,22% de compradores y aportan el 46,72% de ingresos. Los compradores de una sola compra son el 78,78% y aportan el 53,28% restante.</desc>
+  <rect width="900" height="340" rx="18" fill="#f4f7f8"/>
+  <text x="36" y="44" font-family="Arial, sans-serif" font-size="15" fill="#526575">ECOMMERCE · RECURRENCIA E INGRESOS</text>
+  <text x="36" y="86" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#142c3d">Una minoría recurrente aporta casi la mitad</text>
+  <text x="36" y="132" font-family="Arial, sans-serif" font-size="17" fill="#142c3d">Compradores</text>
+  <rect x="210" y="111" width="138.7788" height="34" fill="#087f8c"/>
+  <rect x="348.7788" y="111" width="515.2212" height="34" fill="#d4dee4"/>
+  <text x="222" y="134" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">21,22%</text>
+  <text x="680" y="134" font-family="Arial, sans-serif" font-size="16" fill="#142c3d">78,78%</text>
+  <text x="36" y="193" font-family="Arial, sans-serif" font-size="17" fill="#142c3d">Ingresos</text>
+  <rect x="210" y="172" width="305.5488" height="34" fill="#087f8c"/>
+  <rect x="515.5488" y="172" width="348.4512" height="34" fill="#d4dee4"/>
+  <text x="222" y="195" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">46,72%</text>
+  <text x="680" y="195" font-family="Arial, sans-serif" font-size="16" fill="#142c3d">53,28%</text>
+  <rect x="36" y="247" width="13" height="13" fill="#087f8c"/>
+  <text x="58" y="259" font-family="Arial, sans-serif" font-size="16" fill="#142c3d">Compradores recurrentes</text>
+  <rect x="370" y="247" width="13" height="13" fill="#d4dee4"/>
+  <text x="392" y="259" font-family="Arial, sans-serif" font-size="16" fill="#142c3d">Compradores de una compra</text>
+  <text x="36" y="305" font-family="Arial, sans-serif" font-size="14" fill="#526575">Ventana de cinco meses · Ingresos registrados, no margen ni efecto de una campaña.</text>
+</svg>

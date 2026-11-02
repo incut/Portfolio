@@ -1,58 +1,49 @@
-# Portfolio Profesional | Data Analytics, BI, Forecasting & Data Science
+# Portfolio | Analítica de negocio y ciencia de datos
 
-> Portfolio orientado a proyectos de datos con foco en análisis de negocio, visualización, reporting y modelado predictivo aplicado.
+## De los datos a una decisión de negocio
 
-## Perfil
+Proyectos de análisis, segmentación y modelado predictivo con foco en preguntas concretas, resultados interpretables y límites explícitos.
 
-Estoy desarrollando un perfil profesional orientado a datos, con interés en transformar información de negocio en decisiones accionables. Mi enfoque combina análisis exploratorio, métricas de negocio, visualización, lógica comercial y modelos predictivos con una presentación clara para stakeholders técnicos y no técnicos.
+**No es necesario descargar archivos ni instalar herramientas.** Cada caso se puede leer completo en GitHub: pregunta de negocio, metodología, resultados, conclusiones y limitaciones.
 
-## Objetivo del Portfolio
+## Casos finalizados
 
-Este portfolio reúne proyectos construidos con una lógica end-to-end: comprensión del problema, preparación de datos, análisis, visualización, modelado cuando aporta valor y comunicación de resultados. La idea es mostrar no solo código, sino también criterio analítico, entendimiento del negocio y capacidad para traducir datos en valor para una empresa.
+| Proyecto | Pregunta de negocio | Resultado destacado | Acceso |
+| --- | --- | --- | --- |
+| **Plantas solares** · Business Analytics | ¿Dónde priorizar la investigación de pérdidas potenciales de generación? | La planta P2 concentra el 98,4% de la energía potencialmente no generada estimada en la muestra. | [Leer el caso](proyectos/plantas-solares/README.md) |
+| **Ecommerce** · Business Analytics | ¿Cómo priorizar la retención y la segunda compra? | El 21,22% de compradores recurrentes aporta el 46,72% de los ingresos registrados. | [Leer el caso](proyectos/ecommerce/README.md) |
+| **Mercado inmobiliario** · Business Analytics | ¿Cómo construir un filtro exploratorio de alquiler temporario en CABA? | 12.974 anuncios analizados, con supuestos explícitos de ocupación y rendimiento bruto. | [Leer el caso](proyectos/mercado-inmobiliario/README.md) |
+| **Lead Scoring** · Machine Learning | ¿Cómo ordenar contactos comerciales según su propensión a convertir? | ROC-AUC registrada de 0,8969 en 2.680 contactos evaluables de la reserva de validación. | [Leer el caso](proyectos/lead-scoring/README.md) |
 
-Esta carpeta está preparada para funcionar como raíz del portfolio al publicarse en GitHub.
+> Las cifras pertenecen a cada análisis; no representan resultados comerciales obtenidos en producción. Los escenarios, estimaciones y métricas de validación se identifican dentro de cada caso.
 
-## Qué Vas a Encontrar Acá
+## Recorrido sugerido
 
-- Proyectos de forecasting y análisis de demanda.
-- Casos de analítica aplicada a negocio y toma de decisiones.
-- Dashboards, reporting y visualizaciones orientadas a usuarios finales.
-- Ejercicios y proyectos de machine learning con foco en interpretación y aplicabilidad.
-- Documentación clara sobre metodología, resultados, impacto y próximos pasos.
+- **Negocio y comunicación:** comenzar por [Ecommerce](proyectos/ecommerce/README.md) y continuar con [Plantas solares](proyectos/plantas-solares/README.md).
+- **Modelado y evaluación:** revisar [Lead Scoring](proyectos/lead-scoring/README.md), incluyendo cobertura y restricciones de uso.
+- **Integración de fuentes y supuestos:** explorar [Mercado inmobiliario](proyectos/mercado-inmobiliario/README.md).
 
-## Stack Principal
+## Herramientas utilizadas en los proyectos
 
 | Área | Herramientas |
 | --- | --- |
-| Análisis de datos | `Python`, `pandas`, `NumPy`, `SQL` |
-| Machine learning | `scikit-learn` |
-| Visualización y apps | `Matplotlib`, `Seaborn`, `Streamlit` |
-| BI y reporting | `Power BI` |
-| Exploración y prototipado | `Jupyter Notebook` |
-| Versionado y documentación | `Git`, `GitHub`, `Markdown` |
+| Preparación y análisis | Python, pandas, NumPy, SQL |
+| Modelado | scikit-learn |
+| Visualización y comunicación | Matplotlib, Seaborn, informes ejecutivos |
+| Prototipos de aplicación | Streamlit, FastAPI |
+| Trabajo reproducible | Jupyter, Git, GitHub |
 
-## Proyectos Destacados
+## Qué se publica
 
-| Proyecto | Enfoque | Stack | Estado |
-| --- | --- | --- | --- |
-| [ForecastingVentas](ForecastingVentas/README.md) | Predicción diaria de ventas y simulación de escenarios comerciales con descuentos y competencia | `Python`, `scikit-learn`, `Streamlit` | Disponible |
+Esta selección contiene resúmenes originales, cifras agregadas y gráficos de síntesis. No incluye registros personales, bases de clientes, modelos privados ni enlaces que requieran acceso a los repositorios de trabajo. Los resultados documentados no se presentan como una reproducción independiente de los experimentos.
 
-Demo online: [portfolio-forecasting-ventas.streamlit.app](https://portfolio-forecasting-ventas.streamlit.app)
+## Proyecto previo y trabajo en curso
 
-### Despliegue en Streamlit Cloud
+- [ForecastingVentas: documentación](ForecastingVentas/README.md) y [demo educativa existente](https://portfolio-forecasting-ventas.streamlit.app). **En revisión metodológica:** sus métricas históricas no deben interpretarse como evidencia de capacidad predictiva validada. La demo es un prototipo, no una recomendación comercial.
+- **Forecasting_Retail:** en desarrollo; no se incluye entre los casos finalizados.
 
-El punto de entrada para Cloud es [streamlit_app.py](streamlit_app.py). Al crear o actualizar la app en Streamlit Cloud, seleccioná ese archivo como main file path.
+Las cuatro páginas principales son informes de lectura en línea. No se anuncia una demo pública de Lead Scoring: su API está implementada para uso local.
 
-## Estructura del Portfolio
+---
 
-```text
-Portfolio/
-|-- README.md
-`-- ForecastingVentas/
-    |-- README.md
-    |-- app/
-    |-- data/
-    |-- docs/
-    |-- models/
-    |-- notebooks/
-    `-- requirements.txt
+[Perfil de GitHub](https://github.com/incut)

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-labelledby="title desc">
+  <title id="title">Concentración de energía potencialmente no generada</title>
+  <desc id="desc">P2 concentra el 98,4% y P1 el 1,6% del total estimado de 941,9 MWh durante 34 días. No es una pérdida causal confirmada.</desc>
+  <rect width="900" height="290" rx="18" fill="#f4f7f8"/>
+  <text x="36" y="47" font-family="Arial, sans-serif" font-size="15" fill="#526575">PLANTAS SOLARES · SÍNTESIS DEL ANÁLISIS</text>
+  <text x="36" y="90" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#142c3d">La investigación comienza en P2</text>
+  <text x="36" y="123" font-family="Arial, sans-serif" font-size="17" fill="#526575">Distribución del total potencialmente no generado estimado</text>
+  <rect x="36" y="150" width="814.752" height="42" fill="#087f8c"/>
+  <rect x="850.752" y="150" width="13.248" height="42" fill="#df7a42"/>
+  <rect x="36" y="216" width="13" height="13" fill="#087f8c"/>
+  <text x="58" y="228" font-family="Arial, sans-serif" font-size="17" fill="#142c3d">P2: 98,4%</text>
+  <rect x="230" y="216" width="13" height="13" fill="#df7a42"/>
+  <text x="252" y="228" font-family="Arial, sans-serif" font-size="17" fill="#142c3d">P1: 1,6%</text>
+  <text x="36" y="263" font-family="Arial, sans-serif" font-size="14" fill="#526575">Muestra: 34 días · Total estimado: 941,9 MWh · No confirma la causa técnica.</text>
+</svg>
