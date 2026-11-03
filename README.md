@@ -42,7 +42,7 @@ Esta selección contiene resúmenes originales, cifras agregadas y gráficos de 
 - [ForecastingVentas: documentación](ForecastingVentas/README.md) y [demo educativa existente](https://portfolio-forecasting-ventas.streamlit.app). **En revisión metodológica:** sus métricas históricas no deben interpretarse como evidencia de capacidad predictiva validada. La demo es un prototipo, no una recomendación comercial.
 - **Forecasting_Retail:** en desarrollo; no se incluye entre los casos finalizados.
 
-Las cuatro páginas principales son informes de lectura en línea. No se anuncia una demo pública de Lead Scoring: su API está implementada para uso local.
+Las cuatro páginas principales ofrecen informes de lectura en línea. **Lead Scoring también tiene una API desplegada en Render:** [probar en Swagger](https://lead-scoring-anta.onrender.com/docs). Se incluye un ejemplo sintético en el caso, sin descargar nada.
 
 ---
 
