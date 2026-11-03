@@ -4,16 +4,18 @@
 
 Proyectos de análisis, segmentación y modelado predictivo con foco en preguntas concretas, resultados interpretables y límites explícitos.
 
-**No es necesario descargar archivos ni instalar herramientas.** Cada caso se puede leer completo en GitHub: pregunta de negocio, metodología, resultados, conclusiones y limitaciones.
+**No es necesario descargar archivos ni instalar herramientas.** Las fichas de GitHub ofrecen una entrada breve. Las presentaciones, informes e insights completos se leen en el sitio público, con sus gráficos y limitaciones originales.
+
+**[Abrir todas las presentaciones e informes completos](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/)**
 
 ## Casos finalizados
 
 | Proyecto | Pregunta de negocio | Resultado destacado | Acceso |
 | --- | --- | --- | --- |
-| **Plantas solares** · Business Analytics | ¿Dónde priorizar la investigación de pérdidas potenciales de generación? | La planta P2 concentra el 98,4% de la energía potencialmente no generada estimada en la muestra. | [Leer el caso](proyectos/plantas-solares/README.md) |
-| **Ecommerce** · Business Analytics | ¿Cómo priorizar la retención y la segunda compra? | El 21,22% de compradores recurrentes aporta el 46,72% de los ingresos registrados. | [Leer el caso](proyectos/ecommerce/README.md) |
-| **Mercado inmobiliario** · Business Analytics | ¿Cómo construir un filtro exploratorio de alquiler temporario en CABA? | 12.974 anuncios analizados, con supuestos explícitos de ocupación y rendimiento bruto. | [Leer el caso](proyectos/mercado-inmobiliario/README.md) |
-| **Lead Scoring** · Machine Learning | ¿Cómo ordenar contactos comerciales según su propensión a convertir? | ROC-AUC registrada de 0,8969 en 2.680 contactos evaluables de la reserva de validación. | [Leer el caso](proyectos/lead-scoring/README.md) |
+| **Plantas solares** · Business Analytics | ¿Dónde priorizar la investigación de pérdidas potenciales de generación? | La planta P2 concentra el 98,4% de la energía potencialmente no generada estimada en la muestra. | [Caso breve](proyectos/plantas-solares/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/plantas-solares/) |
+| **Ecommerce** · Business Analytics | ¿Cómo priorizar la retención y la segunda compra? | El 21,22% de compradores recurrentes aporta el 46,72% de los ingresos registrados. | [Caso breve](proyectos/ecommerce/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/ecommerce/) |
+| **Mercado inmobiliario** · Business Analytics | ¿Cómo construir un filtro exploratorio de alquiler temporario en CABA? | 12.974 anuncios analizados, con supuestos explícitos de ocupación y rendimiento bruto. | [Caso breve](proyectos/mercado-inmobiliario/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/) |
+| **Lead Scoring** · Machine Learning | ¿Cómo ordenar contactos comerciales según su propensión a convertir? | ROC-AUC registrada de 0,8969 en 2.680 contactos evaluables de la reserva de validación. | [Caso breve](proyectos/lead-scoring/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/) |
 
 > Las cifras pertenecen a cada análisis; no representan resultados comerciales obtenidos en producción. Los escenarios, estimaciones y métricas de validación se identifican dentro de cada caso.
 
@@ -35,7 +37,7 @@ Proyectos de análisis, segmentación y modelado predictivo con foco en pregunta
 
 ## Qué se publica
 
-Esta selección contiene resúmenes originales, cifras agregadas y gráficos de síntesis. No incluye registros personales, bases de clientes, modelos privados ni enlaces que requieran acceso a los repositorios de trabajo. Los resultados documentados no se presentan como una reproducción independiente de los experimentos.
+GitHub contiene fichas de entrada; el sitio enlazado incluye los entregables originales completos, la narrativa analítica y los gráficos agregados. Las redacciones de privacidad y las discrepancias de las fuentes se señalan de forma explícita. No incluye registros personales, bases de clientes, modelos privados ni enlaces que requieran acceso a los repositorios de trabajo. Los resultados documentados no se presentan como una reproducción independiente de los experimentos.
 
 ## Proyecto previo y trabajo en curso
 

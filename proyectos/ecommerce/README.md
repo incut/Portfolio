@@ -2,6 +2,10 @@
 
 [← Volver al portfolio](../../README.md) · Business Analytics · Informe de lectura en línea
 
+**[Ver todos los materiales completos](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/ecommerce/)** · [Presentación original completa](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/ecommerce/informe-ejecutivo.html) · [Todos los insights](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/ecommerce/insights-completos.html) · [Dashboard interactivo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/ecommerce/dashboard.html)
+
+Los enlaces anteriores permiten leer o explorar el material completo en el navegador, sin descargar archivos. Esta ficha es solo una síntesis.
+
 **Conclusión:** la recurrencia merece atención: el 21,22% de compradores que repite aporta el 46,72% de los ingresos registrados. El siguiente paso propuesto es probar acciones de segunda compra y recuperación, no asumir que una campaña ya generó resultados.
 
 ![Los compradores recurrentes representan el 21,22% de compradores y el 46,72% de ingresos; los de una compra representan el 78,78% y el 53,28%, respectivamente.](../../assets/ecommerce.svg)

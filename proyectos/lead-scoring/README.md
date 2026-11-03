@@ -2,6 +2,10 @@
 
 [← Volver al portfolio](../../README.md) · Machine Learning · Informe de lectura en línea
 
+**[Ver el dossier completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/)** · [Informes originales](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/informes.html) · [Todos los análisis y figuras](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/anexos.html) · [Probar la API en Render](https://lead-scoring-anta.onrender.com/docs)
+
+Los enlaces anteriores permiten leer o explorar el material completo en el navegador, sin descargar archivos. Esta ficha es solo una síntesis.
+
 **Resultado:** el informe de validación reservado registra una ROC-AUC de **0,8969**, calculada sobre **2.680 de 2.728 contactos**. Es una medida de discriminación en los casos evaluables, no precisión del 89,69% ni mejora comercial demostrada.
 
 > **Restricción de uso:** antes de puntuar un contacto en el momento de completar un formulario, falta verificar que todas las variables utilizadas ya estén disponibles en ese instante. El resultado no basta para afirmar que el modelo esté listo para producción.

@@ -2,6 +2,10 @@
 
 [← Volver al portfolio](../../README.md) · Business Analytics · Informe de lectura en línea
 
+**[Abrir el informe HTML original completo y sus mapas](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/)** · [Análisis completo: 19 secciones y 36 figuras](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/analisis-completo.html)
+
+Los enlaces anteriores permiten leer o explorar el material completo en el navegador, sin descargar archivos. Esta ficha es solo una síntesis.
+
 **Conclusión:** comparar barrios no alcanza: conviene contrastar ocupación estimada, características del inmueble y coste de compra. El análisis construye un filtro de investigación, no una lista de inversiones recomendadas.
 
 ## La pregunta de negocio

@@ -2,6 +2,10 @@
 
 [← Volver al portfolio](../../README.md) · Business Analytics · Informe de lectura en línea
 
+**[Ver todos los materiales completos](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/plantas-solares/)** · [Presentación original: 10 diapositivas](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/plantas-solares/presentacion.html) · [Todos los insights y figuras](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/plantas-solares/analisis-completo.html)
+
+Los enlaces anteriores permiten leer o explorar el material completo en el navegador, sin descargar archivos. Esta ficha es solo una síntesis.
+
 **Conclusión:** concentrar la investigación inicial en P2 y comprobar la calidad de la telemetría antes de atribuir pérdidas a una avería o justificar una intervención.
 
 ![P2 concentra el 98,4% y P1 el 1,6% de la energía potencialmente no generada estimada en la muestra.](../../assets/plantas-solares.svg)
