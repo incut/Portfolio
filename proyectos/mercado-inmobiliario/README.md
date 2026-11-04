@@ -6,7 +6,7 @@
 
 Los enlaces anteriores permiten leer o explorar el material completo en el navegador, sin descargar archivos. Esta ficha es solo una síntesis.
 
-**Conclusión:** comparar barrios no alcanza: conviene contrastar ocupación estimada, características del inmueble y coste de compra. El análisis construye un filtro de investigación, no una lista de inversiones recomendadas.
+**Conclusión:** comparar barrios no alcanza: conviene contrastar ocupación estimada, características del inmueble y costo de compra. El análisis construye un filtro de investigación, no una lista de inversiones recomendadas.
 
 ## La pregunta de negocio
 
@@ -54,3 +54,9 @@ Integración de fuentes, análisis geográfico y explicitación de supuestos. Se
 ## Lectura y estructura
 
 Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.
+
+## Barrios y fuentes
+
+San Nicolás (9,85%), Monserrat (7,43%) y San Telmo (7,08%) lideran por rendimiento bruto mediano estimado. Los 2.467 candidatos representan aproximadamente el 19,0% de todos los 12.974 anuncios analizados, no de las transacciones del mercado.
+
+La documentación identifica Inside Airbnb, corte 29/06/2026, y referencias agregadas de precio por m² de IDECBA. Los costos de adquisición son aproximaciones; no se atribuyen estos resultados a los microdatos complementarios de venta ARED. [Consultar fuentes y limitaciones](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/#evidencia).

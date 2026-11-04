@@ -23,7 +23,7 @@ Los enlaces anteriores permiten leer o explorar el material completo en el naveg
 | Concentración en P2 | 98,4% | Prioridad de investigación, no diagnóstico de causa. |
 | Escenario anual exploratorio | 568.789 €/año | No es ingreso recuperado, ahorro demostrado ni ROI. |
 
-El escenario anual supone que la muestra representa el año, una recuperación del 75% y un precio de 75 €/MWh. Esa extrapolación es orientativa y requiere validación estacional; no incorpora costes de intervención.
+El escenario anual supone que la muestra representa el año, una recuperación del 75% y un precio de 75 €/MWh. Esa extrapolación es orientativa y requiere validación estacional; no incorpora costos de intervención.
 
 ## Cómo se abordó
 
@@ -35,13 +35,13 @@ El escenario anual supone que la muestra representa el año, una recuperación d
 
 - Comenzar con un piloto acotado en P2, sujeto a validación técnica.
 - Contrastar las anomalías con mantenimiento y mediciones independientes antes de asignar causa.
-- Evaluar costes, recuperación efectiva y representatividad antes de ampliar el piloto.
+- Evaluar costos, recuperación efectiva y representatividad antes de ampliar el piloto.
 
 ## Límites que cambian la interpretación
 
 - La causa técnica de las desviaciones no está confirmada; correlación y anomalía no prueban un fallo.
 - Se aplicó una corrección de escala DC de P1 dividiendo por 10, pendiente de verificación técnica.
-- Faltan costes y evidencia anual para calcular rentabilidad real de la intervención.
+- Faltan costos y evidencia anual para calcular rentabilidad real de la intervención.
 - La estimación y el escenario no constituyen resultados obtenidos en una operación real.
 
 ## Qué demuestra el proyecto
@@ -53,3 +53,7 @@ Control de calidad de datos, análisis de anomalías, priorización y comunicaci
 ## Lectura y estructura
 
 Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.
+
+## Presentación accesible
+
+Las diez diapositivas incluyen texto seleccionable y tablas con los datos de los tres gráficos nativos. [Leer la versión solo en texto](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/plantas-solares/presentacion-accesible.html). Las imágenes, el PPTX y sus valores originales no cambian.

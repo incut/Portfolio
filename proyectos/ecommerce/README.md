@@ -34,14 +34,14 @@ Los enlaces anteriores permiten leer o explorar el material completo en el naveg
 
 - Diferenciar mensajes de segunda compra, fidelización y recuperación según el comportamiento del segmento.
 - Diseñar una prueba con grupo de comparación para medir el efecto incremental de una acción.
-- Incorporar margen, coste de contacto y devoluciones antes de decidir presupuesto.
+- Incorporar margen, costo de contacto y devoluciones antes de decidir presupuesto.
 
 ## Límites que cambian la interpretación
 
 - La sesión con evento de compra es una aproximación; no sustituye a un identificador de pedido.
 - Cinco meses no permiten afirmar retención de largo plazo ni comportamiento anual.
 - Los escenarios de segunda compra representan ingresos brutos potenciales, no aumento causal demostrado.
-- No se dispone de costes, márgenes ni devoluciones suficientes para demostrar rentabilidad de una campaña.
+- No se dispone de costos, márgenes ni devoluciones suficientes para demostrar rentabilidad de una campaña.
 
 ## Qué demuestra el proyecto
 
@@ -52,3 +52,9 @@ Análisis de clientes, segmentación RFM, cohortes y traducción de hallazgos a 
 ## Lectura y estructura
 
 Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.
+
+## Dimensionar la segunda compra
+
+Un aumento ilustrativo de un punto porcentual de compradores recurrentes sobre 11.040 compradores representa unas 110 personas. Suponiendo un pedido adicional por persona y un ticket aproximado de 34,32 €, serían unos 3.789 € brutos, no beneficio ni impacto causal medido.
+
+El recomendador compara los 100 productos más comprados por distancia euclidiana y devuelve cinco sugerencias por defecto. No tiene métricas de ranking ni mejora comercial evaluadas. [Ver los escenarios originales y sus supuestos](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/ecommerce/#evidencia).

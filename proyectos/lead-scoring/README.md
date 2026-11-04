@@ -35,7 +35,7 @@ Los resultados de selección de variables e hiperparámetros por validación cru
 ## Decisión que informa
 
 - Investigar si el ordenamiento puede ayudar a distribuir una capacidad comercial limitada.
-- Definir un umbral de acción según capacidad, costes y consecuencias de falsos positivos y falsos negativos.
+- Definir un umbral de acción según capacidad, costos y consecuencias de falsos positivos y falsos negativos.
 - Verificar disponibilidad temporal de las variables y evaluar una prueba operativa antes de usar el modelo con contactos reales.
 
 ## Límites que cambian la interpretación
@@ -83,3 +83,13 @@ El ejemplo usa un identificador ficticio. La respuesta incluye la probabilidad, 
 ## Lectura y estructura
 
 Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.
+
+## Qué significan las métricas y los canales
+
+La AUC reservada de 0,8969 corresponde a 2.680 de 2.728 contactos. El lift numérico del decil superior reservado no está disponible en la evidencia revisada.
+
+**Riesgo temporal:** `SMS enviado` es la tercera variable por importancia de permutación. Si ocurre después del momento de puntuación, no puede usarse para predecir antes del contacto. Ese uso no está validado; tampoco se documentó una ablación que quite únicamente SMS.
+
+La comparación exploratoria disponible usa la misma regresión logística: 21 variables de formulario, AUC CV 0,757242; escenario ampliado de 28 variables, 0,896819. No es una comparación independiente de algoritmos en la reserva. Los canales usan reglas de negocio: p < 0,4 autogestión; 0,4 ≤ p ≤ 0,7 automatización; p > 0,7 comercial. No se optimizaron por costos.
+
+[Ver métricas, reglas y demostración con un contacto ficticio](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/#evidencia). La etapa 06 se omitió porque no se aplicó balanceo de clases.
