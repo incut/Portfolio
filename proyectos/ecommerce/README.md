@@ -48,3 +48,7 @@ Los enlaces anteriores permiten leer o explorar el material completo en el naveg
 Análisis de clientes, segmentación RFM, cohortes y traducción de hallazgos a hipótesis de negocio comprobables. Esta síntesis no publica registros de clientes ni ofrece resultados de campañas ejecutadas.
 
 **Estado de esta entrega:** conclusiones y visualización agregada disponibles en el navegador, sin instalación ni descarga.
+
+## Lectura y estructura
+
+Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.

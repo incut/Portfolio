@@ -1,21 +1,23 @@
-# Portfolio | Analítica de negocio y ciencia de datos
+# Augusto Presfraind | Analítica de datos y machine learning
+
+[LinkedIn](https://ar.linkedin.com/in/augusto-presfraind) · [GitHub](https://github.com/incut) · [Correo](mailto:augustopresfraind@gmail.com)
 
 ## De los datos a una decisión de negocio
 
-Proyectos de análisis, segmentación y modelado predictivo con foco en preguntas concretas, resultados interpretables y límites explícitos.
+Busco oportunidades junior en ciencia de datos y analítica de negocio. Estos proyectos muestran cómo preparo datos, evalúo modelos y traduzco hallazgos en decisiones con limitaciones explícitas.
 
 **No es necesario descargar archivos ni instalar herramientas.** Las fichas de GitHub ofrecen una entrada breve. Las presentaciones, informes e insights completos se leen en el sitio público, con sus gráficos y limitaciones originales.
 
-**[Abrir todas las presentaciones e informes completos](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/)**
+**[Abrir el portfolio y explorar los proyectos](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/)**
 
 ## Casos finalizados
 
-| Proyecto | Pregunta de negocio | Resultado destacado | Acceso |
-| --- | --- | --- | --- |
-| **Plantas solares** · Business Analytics | ¿Dónde priorizar la investigación de pérdidas potenciales de generación? | La planta P2 concentra el 98,4% de la energía potencialmente no generada estimada en la muestra. | [Caso breve](proyectos/plantas-solares/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/plantas-solares/) |
-| **Ecommerce** · Business Analytics | ¿Cómo priorizar la retención y la segunda compra? | El 21,22% de compradores recurrentes aporta el 46,72% de los ingresos registrados. | [Caso breve](proyectos/ecommerce/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/ecommerce/) |
-| **Mercado inmobiliario** · Business Analytics | ¿Cómo construir un filtro exploratorio de alquiler temporario en CABA? | 12.974 anuncios analizados, con supuestos explícitos de ocupación y rendimiento bruto. | [Caso breve](proyectos/mercado-inmobiliario/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/) |
-| **Lead Scoring** · Machine Learning | ¿Cómo ordenar contactos comerciales según su propensión a convertir? | ROC-AUC registrada de 0,8969 en 2.680 contactos evaluables de la reserva de validación. | [Caso breve](proyectos/lead-scoring/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/) |
+| Proyecto | Pregunta de negocio | Resultado destacado | Qué demuestra | Acceso |
+| --- | --- | --- | --- | --- |
+| **Lead Scoring** · Machine Learning | ¿Cómo ordenar contactos comerciales según su propensión a convertir? | ROC-AUC registrada de 0,8969 en 2.680 contactos evaluables de la reserva de validación. | Selección de variables, validación y API de inferencia | [Caso breve](proyectos/lead-scoring/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/) |
+| **Plantas solares** · Business Analytics | ¿Dónde priorizar la investigación de pérdidas potenciales de generación? | La planta P2 concentra el 98,4% de la energía potencialmente no generada estimada en la muestra. | Calidad de datos, anomalías y comunicación de escenarios | [Caso breve](proyectos/plantas-solares/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/plantas-solares/) |
+| **Ecommerce** · Business Analytics | ¿Cómo priorizar la retención y la segunda compra? | El 21,22% de compradores recurrentes aporta el 46,72% de los ingresos registrados. | Segmentación RFM, cohortes y priorización comercial | [Caso breve](proyectos/ecommerce/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/ecommerce/) |
+| **Mercado inmobiliario** · Business Analytics | ¿Cómo construir un filtro exploratorio de alquiler temporario en CABA? | 12.974 anuncios analizados, con supuestos explícitos de ocupación y rendimiento bruto. | Integración de fuentes, análisis geográfico y supuestos | [Caso breve](proyectos/mercado-inmobiliario/README.md) · [Material completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/) |
 
 > Las cifras pertenecen a cada análisis; no representan resultados comerciales obtenidos en producción. Los escenarios, estimaciones y métricas de validación se identifican dentro de cada caso.
 
@@ -37,7 +39,15 @@ Proyectos de análisis, segmentación y modelado predictivo con foco en pregunta
 
 ## Qué se publica
 
-GitHub contiene fichas de entrada; el sitio enlazado incluye los entregables originales completos, la narrativa analítica y los gráficos agregados. Las redacciones de privacidad y las discrepancias de las fuentes se señalan de forma explícita. No incluye registros personales, bases de clientes, modelos privados ni enlaces que requieran acceso a los repositorios de trabajo. Los resultados documentados no se presentan como una reproducción independiente de los experimentos.
+Cada proyecto tiene un resumen breve y acceso a los informes, gráficos y presentaciones completos. Se publican resultados agregados, sin registros de clientes, leads reales ni credenciales. Los resultados estimados y las limitaciones se distinguen de los efectos medidos en producción.
+
+## Lectura, estructura y reproducción
+
+Los cuatro casos son documentación: se exploran desde el navegador, sin instalar Python. `proyectos/<caso>/README.md` contiene el objetivo y los resultados; `assets/` contiene las figuras de síntesis. El sitio enlazado ofrece las presentaciones, análisis y mapas completos.
+
+No se incluyen los notebooks de entrenamiento, los datasets ni los modelos de estos cuatro casos. Su ejecución de principio a fin y el orden de las celdas no se pueden verificar desde este repositorio; no se presenta esta publicación como un entorno reproducible de entrenamiento. Por eso no se añade un archivo de dependencias ficticio para las fichas.
+
+La aplicación educativa independiente [ForecastingVentas](ForecastingVentas/README.md) conserva su propia documentación y su [archivo de dependencias](ForecastingVentas/requirements.txt). No comparte automáticamente el entorno de los cuatro casos.
 
 ## Proyecto previo y trabajo en curso
 

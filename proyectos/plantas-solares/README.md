@@ -49,3 +49,7 @@ El escenario anual supone que la muestra representa el año, una recuperación d
 Control de calidad de datos, análisis de anomalías, priorización y comunicación de incertidumbre. Esta página sintetiza la documentación del proyecto; no publica trazas ni identificadores operativos y no reproduce los cálculos de forma independiente.
 
 **Estado de esta entrega:** conclusiones disponibles en el navegador; no se ofrece un sistema conectado a plantas reales.
+
+## Lectura y estructura
+
+Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.

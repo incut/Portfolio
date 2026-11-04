@@ -2,7 +2,7 @@
 
 [← Volver al portfolio](../../README.md) · Business Analytics · Informe de lectura en línea
 
-**[Abrir el informe HTML original completo y sus mapas](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/)** · [Análisis completo: 19 secciones y 36 figuras](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/analisis-completo.html)
+**[Abrir el informe HTML original completo y sus mapas](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/informe-completo.html)** · [Análisis completo: 19 secciones y 36 figuras](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/mercado-inmobiliario/analisis-completo.html)
 
 Los enlaces anteriores permiten leer o explorar el material completo en el navegador, sin descargar archivos. Esta ficha es solo una síntesis.
 
@@ -50,3 +50,7 @@ Las fuentes documentadas incluyen Inside Airbnb del 29/06/2026, ARED de enero–
 Integración de fuentes, análisis geográfico y explicitación de supuestos. Se publican únicamente cifras agregadas; no microdatos, direcciones ni mapas de anuncios individuales. Esta síntesis no constituye una tasación ni asesoramiento de inversión.
 
 **Estado de esta entrega:** informe legible en el navegador; resultados históricos del estudio, no un buscador de oportunidades actualizado.
+
+## Lectura y estructura
+
+Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.

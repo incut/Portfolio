@@ -2,7 +2,7 @@
 
 [← Volver al portfolio](../../README.md) · Machine Learning · Informe de lectura en línea
 
-**[Ver el dossier completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/)** · [Informes originales](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/informes.html) · [Todos los análisis y figuras](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/anexos.html) · [Probar la API en Render](https://lead-scoring-anta.onrender.com/docs)
+**[Ver resumen y análisis completo](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/)** · [Informes originales](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/informes.html) · [Todos los análisis y figuras](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/anexos.html) · [Probar la API en Render](https://lead-scoring-anta.onrender.com/docs)
 
 Los enlaces anteriores permiten leer o explorar el material completo en el navegador, sin descargar archivos. Esta ficha es solo una síntesis.
 
@@ -79,3 +79,7 @@ Pipeline de modelado, separación de conjuntos, cobertura de evaluación y prepa
 ```
 
 El ejemplo usa un identificador ficticio. La respuesta incluye la probabilidad, la clasificación y el canal asignado. [Consultar el estado del servicio](https://lead-scoring-anta.onrender.com/health).
+
+## Lectura y estructura
+
+Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.
