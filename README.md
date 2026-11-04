@@ -45,7 +45,9 @@ Cada proyecto tiene un resumen breve y acceso a los informes, gráficos y presen
 
 Los cuatro casos son documentación: se exploran desde el navegador, sin instalar Python. `proyectos/<caso>/README.md` contiene el objetivo y los resultados; `assets/` contiene las figuras de síntesis. El sitio enlazado ofrece las presentaciones, análisis y mapas completos.
 
-No se incluyen los notebooks de entrenamiento, los datasets ni los modelos de estos cuatro casos. Su ejecución de principio a fin y el orden de las celdas no se pueden verificar desde este repositorio; no se presenta esta publicación como un entorno reproducible de entrenamiento. Por eso no se añade un archivo de dependencias ficticio para las fichas.
+**Lead Scoring incluye ahora una [demostración técnica ejecutable](proyectos/lead-scoring/technical/README.md)** con datos sintéticos, pipelines, validación cruzada anidada y pruebas. La [comparación sobre entrenamiento real](proyectos/lead-scoring/training_comparison.md) se publica por separado como evidencia agregada, no como resultado de la demostración sintética.
+
+Los datasets reales, modelos privados y notebooks originales de los cuatro casos no se redistribuyen. Los otros tres casos siguen siendo publicaciones de lectura, no entornos reproducibles de cálculo. La demostración de Lead Scoring tampoco permite reconstruir las métricas reales sin los datos privados.
 
 La aplicación educativa independiente [ForecastingVentas](ForecastingVentas/README.md) conserva su propia documentación y su [archivo de dependencias](ForecastingVentas/requirements.txt). No comparte automáticamente el entorno de los cuatro casos.
 
@@ -59,3 +61,4 @@ Las cuatro páginas principales ofrecen informes de lectura en línea. **Lead Sc
 ---
 
 [Perfil de GitHub](https://github.com/incut)
+

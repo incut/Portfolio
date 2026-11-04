@@ -82,7 +82,7 @@ El ejemplo usa un identificador ficticio. La respuesta incluye la probabilidad, 
 
 ## Lectura y estructura
 
-Esta carpeta contiene la ficha `README.md` con el objetivo, el enfoque, los resultados y sus límites. Los enlaces superiores abren el resumen y los materiales completos en el navegador; no requieren instalación. No se redistribuyen aquí notebooks, datasets ni modelos, por lo que esta ficha no permite reproducir el entrenamiento o los cálculos originales.
+Esta ficha conserva el objetivo, los resultados y sus límites. La [entrega técnica](technical/README.md) añade código ejecutable, generación sintética y pruebas. La [comparación nueva sobre entrenamiento](training_comparison.md) y el [diccionario de disponibilidad](availability.md) separan evidencia real de demostración. No se redistribuyen datos reales, modelos privados ni notebooks originales, y la API desplegada no se modifica.
 
 ## Qué significan las métricas y los canales
 
@@ -93,3 +93,4 @@ La AUC reservada de 0,8969 corresponde a 2.680 de 2.728 contactos. El lift numé
 La comparación exploratoria disponible usa la misma regresión logística: 21 variables de formulario, AUC CV 0,757242; escenario ampliado de 28 variables, 0,896819. No es una comparación independiente de algoritmos en la reserva. Los canales usan reglas de negocio: p < 0,4 autogestión; 0,4 ≤ p ≤ 0,7 automatización; p > 0,7 comercial. No se optimizaron por costos.
 
 [Ver métricas, reglas y demostración con un contacto ficticio](https://incut-portfolio-completo.augustopresfraind.chatgpt.site/lead-scoring/#evidencia). La etapa 06 se omitió porque no se aplicó balanceo de clases.
+
